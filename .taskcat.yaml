@@ -1,0 +1,5 @@
+project:
+  name: cloudformation-validation
+  regions:
+    - ap-southeast-1
+  template: infrastructure.yaml
